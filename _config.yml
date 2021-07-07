@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Josue A. Solares # your name (or website title) here
+logo: "20201212_160802.jpg" 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Full-Stack Developer in Training 
   <br><br>
-  Second description 
+  Looking for Internship 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/josue-solares
+">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
