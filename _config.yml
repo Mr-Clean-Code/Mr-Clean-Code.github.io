@@ -1,5 +1,5 @@
 title: "Josue A. Solares" # your name (or website title) here
-logo: <img src= "https://github.com/Mr-Clean-Code/Mr-Clean-Code.github.io/blob/master/images/20201212_160802.jpg"/>
+logo: "/images/20201212_160802.jpg"
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Full-Stack Developer in Training 
   <br><br>
