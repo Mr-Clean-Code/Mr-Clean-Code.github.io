@@ -8,8 +8,8 @@
 <img src="images/Project-1.JPG?raw=true"/>
 
 ---
-[Working Project](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Working Project](https://github.com/Mr-Clean-Code/Ultimate-Frisbee)
+<img src="images/Project-2.JPG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
