@@ -12,7 +12,7 @@
 <img src="images/Project-2.JPG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Python Knowledge](https://github.com/Mr-Clean-Code/Python)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -20,8 +20,8 @@
 ### Category Name 2
 
 - [Working Portfolio Page](https://mr-clean-code.github.io/Josue-Solares-Project-1/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Ultimate-Frisbee](https://github.com/Mr-Clean-Code/Ultimate-Frisbee)
+- [Python](https://github.com/Mr-Clean-Code/Python)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
