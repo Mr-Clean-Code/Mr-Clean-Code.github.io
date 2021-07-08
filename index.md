@@ -13,7 +13,7 @@
 
 ---
 [Python Knowledge](https://github.com/Mr-Clean-Code/Python)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/python.png?raw=true"/>
 
 ---
 
