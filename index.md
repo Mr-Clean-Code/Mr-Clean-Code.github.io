@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Working Portfolio Page](https://mr-clean-code.github.io/Josue-Solares-Project-1/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Project-1.JPG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
