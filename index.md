@@ -16,8 +16,13 @@
 <img src="images/python.png?raw=true"/>
 
 ---
+[P5.js Projects](https://github.com/Mr-Clean-Code/P5.js)
+<img src="images/Capture.JPG?raw=true"/>
+
+---
 [FreeCodeCamp Progress](https://www.freecodecamp.org/mrcleane-code)
-<img src=""/>
+<img src="images/logo.png?raw=true"/>
+
 ---
 ### Category Name 2
 
