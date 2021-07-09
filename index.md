@@ -16,7 +16,9 @@
 <img src="images/python.png?raw=true"/>
 
 ---
-
+[FreeCodeCamp Progress](https://www.freecodecamp.org/mrcleane-code)
+<img src=""/>
+---
 ### Category Name 2
 
 - [Working Portfolio Page](https://mr-clean-code.github.io/Josue-Solares-Project-1/)
