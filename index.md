@@ -22,7 +22,7 @@
 - [Working Portfolio Page](https://mr-clean-code.github.io/Josue-Solares-Project-1/)
 - [Ultimate-Frisbee](https://github.com/Mr-Clean-Code/Ultimate-Frisbee)
 - [Python](https://github.com/Mr-Clean-Code/Python)
-- [Project 4 Title](http://example.com/)
+- [SQL](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
 ---
