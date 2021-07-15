@@ -1,5 +1,13 @@
 ## Portfolio
 
+____________
+[CERTIFICATIONS]
+You can verify it by clicking ><a href="https://coursera.org/verif y/PFSYWPV4VP3K">HTML5</a>
+<img src ="images/HTML5_Cert.JPG?raw=true"/>
+You can verify it by clicking ><a href="https://coursera.org/verify/V54NT6LUG2KA">CSS3</a>
+<img src ="images/CSS3_Cert.JPG?raw=true"/>
+---
+
 ---
 
 ### Category Name 1 
