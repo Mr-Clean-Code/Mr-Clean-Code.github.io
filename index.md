@@ -10,7 +10,8 @@ You can verify it by clicking ><a href="https://coursera.org/verif y/PFSYWPV4VP3
 You can verify it by clicking ><a href="https://coursera.org/verify/V54NT6LUG2KA">CSS3</a>
 <img src ="images/CSS3_Cert.JPG?raw=true"/>
 ---
-
+You can verify it by clicking <a href="https://www.freecodecamp.org/certification/mrcleane-code/responsive-web-design">RESPONSIVE WEB DESIGN</a>
+<img src ="images/FCC_Responsive_Web_Design.JPG?raw=true"/>
 ---
 
 ### Category Name 1 
