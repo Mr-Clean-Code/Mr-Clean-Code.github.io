@@ -11,8 +11,8 @@ You can verify it by clicking ><a href="https://coursera.org/verify/V54NT6LUG2KA
 <img src ="images/CSS3_Cert.JPG?raw=true"/>
 ---
 ---
-You can verify it by clicking <a href="https://coursera.org/verify/XLZCCTMQXWPK">JAVASCRIPT</a>
-<img src="Interactivity_with_JavascriptJPG.JPG?raw=true"/>
+You can verify it by clicking <a href="https://www.coursera.org/account/accomplishments/certificate/XLZCCTMQXWPK">JAVASCRIPT</a>
+<img src="images/Interactivity_with_JavascriptJPG.JPG?raw=true"/>
 ---
 ---
 You can verify it by clicking <a href="https://www.freecodecamp.org/certification/mrcleane-code/responsive-web-design">RESPONSIVE WEB DESIGN</a>
