@@ -3,7 +3,10 @@
 ____________
 [CERTIFICATIONS]
 ---
-You can verify it by clicking ><a href="https://coursera.org/verif y/PFSYWPV4VP3K">HTML5</a>
+---
+You can verifity it by clicking <ahref="https://coursera.org/verify/VMNKQQ3SATUN">RESPONSIVE DESIGN</a>
+<img src = "images/Responsive-Design.JPG?raw=true"/>
+You can verify it by clicking <a href="https://coursera.org/verif y/PFSYWPV4VP3K">HTML5</a>
 <img src ="images/HTML5_Cert.JPG?raw=true"/>
 ---
 ---
